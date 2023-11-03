@@ -11,4 +11,6 @@ dependencies{
 }
 ```
 
-## 
+2. AndroidManifest.xml 수정
+Manifest에서 Internet 허용
+![image](https://github.com/rosa2070/MinorAndroid/assets/46918839/eb715322-5c18-4028-8ae0-5dcebffc7ace)
