@@ -17,6 +17,8 @@ Manifest에서 Internet 허용
 ```
 ![mm](https://github.com/rosa2070/MinorAndroid/assets/46918839/2ac5342a-133b-4def-8ab8-2e0834ecf1ea)
 
+3. 패키지명 변경도 잊지말기!
+
 
 # 시연영상
 [Screen_recording_20231103_110355.webm](https://github.com/rosa2070/MinorAndroid/assets/46918839/2cb21889-e7f0-4dc8-bf18-2923e110ff84)
