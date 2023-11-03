@@ -16,7 +16,6 @@ Manifest에서 Internet 허용
 ```
 <uses-permission android:name="android.permission.INTERNET"/>
 ```
-위의 코드를 아래 사진처럼 추가
 ![mm](https://github.com/rosa2070/MinorAndroid/assets/46918839/2ac5342a-133b-4def-8ab8-2e0834ecf1ea)
 
 
